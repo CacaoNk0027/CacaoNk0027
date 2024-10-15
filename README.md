@@ -1,7 +1,7 @@
 # Buenas! aqui Kuro
 
 <div align="center">
-<img src="https://www.nekoapi.line.pm/images/avatar.png" width="80"></img>
+<img src="./images/avatar.png" width="80"></img>
 <p><b><i>Vtuber, programador y organista ...</i></b></p>
 <img src="https://img.shields.io/github/followers/CacaoNk0027?style=flat&color=65c088&label=Seguidores" width="110">
 </div>
