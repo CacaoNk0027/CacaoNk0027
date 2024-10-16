@@ -20,7 +20,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background: linear-gradient(0deg, var(--base-background), #00000091, #304e753d), url(https://www.nekoapi.line.pm/assets/collage.svg);
+    background: linear-gradient(0deg, var(--base-background), #00000091, #304e753d), url(https://www.nekoapi.line.pm/images/collage.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -264,7 +264,7 @@ body {
         height: 100%;
         top: 0;
         left: 0;
-        background: linear-gradient(0deg, var(--base-background), #00000091, #304e753d), url(https://www.nekoapi.line.pm/assets/collage.svg);
+        background: linear-gradient(0deg, var(--base-background), #00000091, #304e753d), url(https://www.nekoapi.line.pm/images/collage.webp);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
