@@ -372,6 +372,11 @@ body {
             border: 3px #CD201F solid;
             background: #CD201F;
         }
+
+        .bk {
+            border: 3px #0085ff solid;
+            background: #0085ff;
+        }
     
     }
 }
