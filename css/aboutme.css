@@ -337,7 +337,6 @@ body {
             width: 100px;
             color: white;
             padding: 12px 30px;
-            background: var(--base-background);
             border-radius: 20px;
             display: flex;
             justify-content: center;
